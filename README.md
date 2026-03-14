@@ -1,3 +1,5 @@
+![CI](https://github.com/omitsu-dev/spring-boot-api-starter/actions/workflows/ci.yml/badge.svg)
+
 # spring-boot-api-starter
 
 Spring Boot 3 + JWT authentication + PostgreSQL REST API starter. Register, login, and access protected endpoints with Bearer tokens.
