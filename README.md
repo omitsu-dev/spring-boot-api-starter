@@ -4,6 +4,8 @@
 
 Spring Boot 3 + JWT authentication + PostgreSQL REST API starter. Register, login, and access protected endpoints with Bearer tokens.
 
+Built by the developer behind [32blog.com](https://32blog.com).
+
 ## Features
 
 - **Spring Boot 3.4** — Latest stable with Java 21
